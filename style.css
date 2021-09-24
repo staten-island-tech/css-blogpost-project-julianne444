@@ -1,0 +1,32 @@
+body {
+  background-color: #dbc9bd;
+}
+h1 {
+  font-size: 45px;
+  color: rgb(37, 19, 56);
+}
+.head {
+  text-align: center;
+  background-color: rgb(248, 236, 239);
+  padding: 10px 10px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+body {
+  font-family: "Playfair Display", serif;
+}
+.post-header {
+  border: 8px solid rgb(255, 255, 255);
+  height: 5 00px;
+  width: 500px;
+  position: relative;
+  margin-top: 100px;
+  background-color: rgb(248, 214, 214);
+  font-size: 20px;
+}
+.first {
+}
+.second {
+  left: 600px;
+}
