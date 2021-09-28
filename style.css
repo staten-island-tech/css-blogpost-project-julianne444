@@ -5,13 +5,13 @@ body {
 .head {
   text-align: center;
   background-color: rgb(248, 236, 239);
-  padding: 10px 10px;
+  padding: 25px 25px;
   margin-top: 50px;
   margin-bottom: 20px;
   background-image: url();
   border: 2px solid white;
-  font-size: 40px;
-  color: rgb(44, 12, 58);
+  font-size: 50px;
+  color: rgb(67, 33, 82);
 }
 .gingham {
   background-image: url(https://m.media-amazon.com/images/I/71dzfVcDhXL._AC_SX679_.jpg);
@@ -37,18 +37,17 @@ body {
   font-size: 30px;
   font-style: italic;
   text-align: center;
-  margin: 20px;
 }
 .first.names-of {
   left: 10vh;
 }
 .second.names-of {
   left: 720px;
-  bottom: 617px;
+  bottom: 284px;
 }
 .third.names-of {
   left: 140vh;
-  bottom: 1216px;
+  bottom: 893px;
 }
 .desc {
   text-align: center;
@@ -57,4 +56,8 @@ body {
   border-radius: 25px;
   padding: 20px;
   color: rgb(63, 27, 68);
+}
+.text {
+  margin: 40px;
+  position: absolute;
 }
