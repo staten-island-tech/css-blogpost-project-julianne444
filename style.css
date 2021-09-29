@@ -26,28 +26,30 @@ body {
 }
 .names-of {
   border: 4px solid rgb(255, 255, 255);
-  height: 500px;
+  height: 570px;
   width: 420px;
   position: relative;
   margin-top: 100px;
   background-color: rgb(226, 207, 207);
   border-radius: 10px;
+  text-align: center;
 }
 .subtitle {
-  font-size: 30px;
+  font-size: 40px;
   font-style: italic;
   text-align: center;
 }
 .first.names-of {
   left: 10vh;
+  top: 1px;
 }
 .second.names-of {
-  left: 720px;
-  bottom: 284px;
+  left: 625px;
+  bottom: 643px;
 }
 .third.names-of {
-  left: 140vh;
-  bottom: 893px;
+  left: 129vh;
+  bottom: 1324px;
 }
 .desc {
   text-align: center;
@@ -61,3 +63,14 @@ body {
   margin: 40px;
   position: absolute;
 }
+.picture {
+  width: 270px;
+  text-align: center;
+  padding-top: 30px;
+}
+.click {
+  border-radius: 25px;
+  border-color: rgb(83, 63, 51);
+  padding: 15px;
+  
+  
